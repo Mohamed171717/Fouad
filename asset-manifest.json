@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fouad/static/css/main.95e64f70.css",
-    "main.js": "/Fouad/static/js/main.a129fbbb.js",
+    "main.js": "/Fouad/static/js/main.b7f55bbf.js",
     "static/js/453.99dcf01f.chunk.js": "/Fouad/static/js/453.99dcf01f.chunk.js",
     "static/media/landing.gif": "/Fouad/static/media/landing.558aecfd61e6b40b4453.gif",
     "static/media/cover.gif": "/Fouad/static/media/cover.ebd33bfe17a61726e0cf.gif",
@@ -112,11 +112,11 @@
     "static/media/folder (2).svg": "/Fouad/static/media/folder (2).b0c0ca9b37d13d1ce093a9891f8ed292.svg",
     "index.html": "/Fouad/index.html",
     "main.95e64f70.css.map": "/Fouad/static/css/main.95e64f70.css.map",
-    "main.a129fbbb.js.map": "/Fouad/static/js/main.a129fbbb.js.map",
+    "main.b7f55bbf.js.map": "/Fouad/static/js/main.b7f55bbf.js.map",
     "453.99dcf01f.chunk.js.map": "/Fouad/static/js/453.99dcf01f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95e64f70.css",
-    "static/js/main.a129fbbb.js"
+    "static/js/main.b7f55bbf.js"
   ]
 }
